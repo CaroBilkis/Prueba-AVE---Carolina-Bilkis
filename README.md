@@ -2,8 +2,8 @@
 
 
 ## Capturas de pantalla
-![This is an image] (https://github.com/CaroBilkis/Prueba-AVE---Carolina-Bilkis/blob/3954e2193c3ec6415ff0d1b23cd9febac7c05fef/public/screenshot.png)
-![This is an image] (https://github.com/CaroBilkis/Prueba-AVE---Carolina-Bilkis/blob/3954e2193c3ec6415ff0d1b23cd9febac7c05fef/public/screenshot-1.png)
+![This is an image] (public/screenshot.png)
+![This is an image] (public/screenshot-1.png)
 
 ## Vercel
 https://prueba-ave-carolina-bilkis-h2vtcgqbv-carobilkis.vercel.app/
