@@ -1,6 +1,5 @@
 import React,{useEffect, useState} from 'react';
-import Button from './components/Button';
-import Card from './components/Card';
+
 import Search from './components/Search';
 import './css/index.css'
 import Header from './components/Header';
@@ -13,7 +12,6 @@ function Main() {
   const [isLoaded, setIsLoaded] = useState(false);
   const [items, setItems] = useState([]);
 
-  const [inputText, setInputText] = useState("");
   const [sort, setSort] = useState(false);
  
 

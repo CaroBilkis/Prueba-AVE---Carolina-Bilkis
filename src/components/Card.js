@@ -31,7 +31,7 @@ const Card = (props) => {
           : 
           
         <h2> {
-          title = props.title.substring(0, 29) + "..." } </h2>
+         props.title.substring(0, 29) + "..." } </h2>
         }
         <h3>${props.price} </h3>
         
