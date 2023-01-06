@@ -16,8 +16,11 @@ https://prueba-ave-carolina-bilkis-h2vtcgqbv-carobilkis.vercel.app/
 1. Crear una aplicación React simple que muestre una lista de elementos en un diseño
 de cuadrícula:
     a. La lista de elementos debe estar codificada en el estado del componente.
+    
     b. Cada elemento de la lista debe mostrar su nombre y una imagen.
+    
     c. Use Figma para crear una maqueta de diseño del diseño.
+    
 
 2. Implemente una barra de búsqueda en la parte superior de la página que le permita
 al usuario filtrar la lista de elementos por nombre. La barra de búsqueda debe ser
