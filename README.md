@@ -2,8 +2,10 @@
 
 
 ## Capturas de pantalla
-![This is an image] (https://github.com/CaroBilkis/Prueba-AVE---Carolina-Bilkis/blob/3954e2193c3ec6415ff0d1b23cd9febac7c05fef/public/screenshot.png)
-![This is an image] (https://github.com/CaroBilkis/Prueba-AVE---Carolina-Bilkis/blob/3954e2193c3ec6415ff0d1b23cd9febac7c05fef/public/screenshot-1.png)
+
+<img src="https://user-images.githubusercontent.com/80553375/211061428-b680e78e-9900-4adc-a4e2-66877b69e3a5.png" alt="Desktop preview" >
+
+<img src="https://user-images.githubusercontent.com/80553375/211061107-f3c49fe7-714d-4ed6-8fd5-b4c4b61e6752.png" alt="Mobile preview" >
 
 ## Vercel
 https://prueba-ave-carolina-bilkis-h2vtcgqbv-carobilkis.vercel.app/
@@ -13,9 +15,13 @@ https://prueba-ave-carolina-bilkis-h2vtcgqbv-carobilkis.vercel.app/
 
 1. Crear una aplicación React simple que muestre una lista de elementos en un diseño
 de cuadrícula:
+
     a. La lista de elementos debe estar codificada en el estado del componente.
+    
     b. Cada elemento de la lista debe mostrar su nombre y una imagen.
+    
     c. Use Figma para crear una maqueta de diseño del diseño.
+    
 
 2. Implemente una barra de búsqueda en la parte superior de la página que le permita
 al usuario filtrar la lista de elementos por nombre. La barra de búsqueda debe ser
