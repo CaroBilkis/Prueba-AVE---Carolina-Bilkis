@@ -3,6 +3,8 @@
 
 ## Capturas de pantalla
 ![Desktop preview] (https://github.com/CaroBilkis/Prueba-AVE---Carolina-Bilkis/blob/8443733d3d68ecba2336b37d9412264971c0b2e8/public/screenshot.png?raw=true)
+
+
 ![Mobile preview] (https://github.com/CaroBilkis/Prueba-AVE---Carolina-Bilkis/blob/8443733d3d68ecba2336b37d9412264971c0b2e8/public/screenshot-1.png?raw=true)
 
 ## Vercel
