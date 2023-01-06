@@ -34,11 +34,25 @@ function Main() {
     }
     fetchData();
   }, [])
-
+    
+  function header () {
+    return(
+      <div className='flex flex-col justify-center items-center     animation-300 '>
+            <Header/>
+      </div>
+    );
+  }
   if (error) {
-    return <div>Error: {error.message}</div>;
+    return 
+    <div className='flex items-center w-full px-10 lg:px-24 2xl:px-32'>
+      <h2> Error: {error.message}</h2>
+    </div>;
+   
   } else if (!isLoaded) {
-    return <div>Loading...</div>;
+    return 
+      <div className='flex items-center w-full px-10 lg:px-24 2xl:px-32'>
+          <h2> Loading...</h2>
+      </div>;
   } else {
 
     
@@ -84,9 +98,8 @@ function Main() {
 
     return (
 
-     <div className='flex flex-col justify-center items-center     animation-300 '>
-        <Header/>
-
+     <div>
+        {header()}
   
         <Search items={items}  controlSort={()=>controlSort()}
               sortASC={()=>sortASC()}
