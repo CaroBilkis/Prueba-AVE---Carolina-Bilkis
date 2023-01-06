@@ -2,8 +2,8 @@
 
 
 ## Capturas de pantalla
-![This is an image] image.png
-
+![This is an image] ./screenshot.png
+![This is an image] ./screenshot-1.png
 
 ## Vercel
 https://prueba-ave-carolina-bilkis-h2vtcgqbv-carobilkis.vercel.app/
