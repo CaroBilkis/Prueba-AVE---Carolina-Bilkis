@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    h1{
+        @apply text-6xl xl:text-8xl;
+    }
+
+    h2{
+        @apply text-xl xl:text-2xl font-semibold;
+    }
+
+    h3{
+        @apply text-lg xl:text-xl;
+    }
+
+
+    .animation-300{
+        @apply transition-all duration-300 ease-in-out scroll-smooth;
+    }
+}
