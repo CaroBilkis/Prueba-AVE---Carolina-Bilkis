@@ -3,7 +3,7 @@
 
 ## Capturas de pantalla
 
-<img src="![image](https://user-images.githubusercontent.com/80553375/211061428-b680e78e-9900-4adc-a4e2-66877b69e3a5.png)" alt="Desktop preview" >
+<img src="https://user-images.githubusercontent.com/80553375/211061428-b680e78e-9900-4adc-a4e2-66877b69e3a5.png" alt="Desktop preview" >
 
 <img src="https://user-images.githubusercontent.com/80553375/211061107-f3c49fe7-714d-4ed6-8fd5-b4c4b61e6752.png" alt="Mobile preview" >
 
