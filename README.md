@@ -2,8 +2,8 @@
 
 
 ## Capturas de pantalla
-![This is an image] [(public/screenshot.png)](https://github.com/CaroBilkis/Prueba-AVE---Carolina-Bilkis/blob/8443733d3d68ecba2336b37d9412264971c0b2e8/public/screenshot.png?raw=true)
-![This is an image][ (public/screenshot-1.png)](https://github.com/CaroBilkis/Prueba-AVE---Carolina-Bilkis/blob/8443733d3d68ecba2336b37d9412264971c0b2e8/public/screenshot-1.png?raw=true)
+![Desktop preview] (https://github.com/CaroBilkis/Prueba-AVE---Carolina-Bilkis/blob/8443733d3d68ecba2336b37d9412264971c0b2e8/public/screenshot.png?raw=true)
+![Mobile preview] (https://github.com/CaroBilkis/Prueba-AVE---Carolina-Bilkis/blob/8443733d3d68ecba2336b37d9412264971c0b2e8/public/screenshot-1.png?raw=true)
 
 ## Vercel
 https://prueba-ave-carolina-bilkis-h2vtcgqbv-carobilkis.vercel.app/
