@@ -2,10 +2,9 @@
 
 
 ## Capturas de pantalla
-![Desktop preview] (https://github.com/CaroBilkis/Prueba-AVE---Carolina-Bilkis/blob/8443733d3d68ecba2336b37d9412264971c0b2e8/public/screenshot.png?raw=true)
+![Desktop preview] (https://user-images.githubusercontent.com/80553375/211061107-f3c49fe7-714d-4ed6-8fd5-b4c4b61e6752.png))
 
-<img src="
-https://github.com/CaroBilkis/Prueba-AVE---Carolina-Bilkis/blob/main/public/screenshot-1.png?raw=true" alt="Alt text" title="Optional title">
+<img src="![image](https://user-images.githubusercontent.com/80553375/211061107-f3c49fe7-714d-4ed6-8fd5-b4c4b61e6752.png)" alt="Alt text" title="Optional title">
 https://github.com/CaroBilkis/Prueba-AVE---Carolina-Bilkis/blob/8443733d3d68ecba2336b37d9412264971c0b2e8/public/screenshot-1.png
 ![Mobile preview] (https://github.com/CaroBilkis/Prueba-AVE---Carolina-Bilkis/blob/8443733d3d68ecba2336b37d9412264971c0b2e8/public/screenshot-1.png?raw=true)
 
